@@ -5,9 +5,7 @@
   
 
 
-
 ## 🔨 Once I've used 🔨
-
    <div style="display:flex; flex-direction:column; align-items:flex-start;">
    <p><strong>Frontend</strong></p>
    <div>
@@ -59,16 +57,11 @@
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
-  <a href="mailto:yuichan99@naver,com">
-      <img src="https://img.shields.io/badge/
-      Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"> 
-  </a>
-
-  <a href="https://www.instagram.com/eulchann">
-      <img src="https://img.shields.io/badge/
-      Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
-  </a>
-
-</div>
-</div>
+    <a href="mailto:yuichan99@naver.com">
+        <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"> 
+    </a>
+    <a href="https://www.instagram.com/eulchann/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+    </a>
+</div><br>
 
