@@ -37,7 +37,7 @@
   <p><strong>Development Tools</strong></p>
   <div>
      <img src="https://img.shields.io/badge/intellijidea-000000?style=flat&logo=intellijidea&logoColor=white"/>
-     <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=vscode&logoColor=white"/>
+     <img src="https://img.shields.io/badge/vscode-007ACC?style=flat&logo=vscode&logoColor=white"/>
   </div>
 
   <p><strong>Database</strong></p>
