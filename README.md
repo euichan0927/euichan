@@ -1,6 +1,6 @@
 <div aling="center>
 
- <a href="https://github.com/euichan0927/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=euichan0927&count_private=true&hide=stars&theme=tokyonight&hide_border=true" alt="euichan's github stats" /></a> 
+ <a href="https://github.com/euichan0927/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=euichan0927&hide=stars&theme=tokyonight&hide_border=true" alt="euichan's github stats" /></a> 
  <a href="https://github.com/euichan0927/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euichan0927&layout=compact&theme=tokyonight&hide_border=true" /></a> 
   
 
